@@ -1,0 +1,6 @@
+{
+  "AAS_REPO_PATH": "http://aas-env:8081/shells",
+  "SUBMODEL_REPO_PATH": "http://aas-env:8081/submodels",
+  "CD_REPO_PATH": "http://aas-env:8081/concept-descriptions",
+  "ENDPOINT_CONFIG_AVAILABLE": false
+}
